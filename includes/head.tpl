@@ -8,10 +8,10 @@
 <link href="{$__assetPath__}" rel="stylesheet">
 {/assetExists}
 {if isset($smarty.get.layout)}
-     
+
     <link href="{$WEB_ROOT}/templates/{$template}/layouts/wp-{$smarty.get.layout}/override{$smarty.get.layout}.css" rel="stylesheet">
 {else}
-    <link href="{$WEB_ROOT}/templates/{$template}/layouts/wp-50/override50.css" rel="stylesheet">
+    <link href="{$WEB_ROOT}/templates/{$template}/layouts/wp-78/override78.css" rel="stylesheet">
 {/if}
 <script>
     var csrfToken = '{$token}',

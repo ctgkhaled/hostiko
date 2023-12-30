@@ -6,7 +6,7 @@
     <title>{if $kbarticle.title}{$kbarticle.title} - {/if}{$pagetitle} - {$companyname}</title>
     {include file="$template/includes/head.tpl"}
     {$headoutput}
-    
+
 </head>
 <body class="primary-bg-color" data-phone-cc-input="{$phoneNumberInputStyle}">
 
@@ -16,11 +16,11 @@
     {if isset($smarty.get.layout)}
 
     {include file="$template/layouts/wp-{$smarty.get.layout}/header{$smarty.get.layout}.tpl"}
-     
-   {else}
-   {include file="$template/layouts/wp-50/header50.tpl"}
 
-   
+   {else}
+   {include file="$template/layouts/wp-78/header78.tpl"}
+
+
 {/if}
 
 

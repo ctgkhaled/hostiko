@@ -14,10 +14,10 @@
     {if isset($smarty.get.layout)}
 
     {include file="$template/layouts/wp-{$smarty.get.layout}/footer{$smarty.get.layout}.tpl"}
-     
+
    {else}
 
-       {include file="$template/layouts/wp-50/footer50.tpl"}
+       {include file="$template/layouts/wp-78/footer78.tpl"}
 {/if}
 
     <footer id="footer" class="footer">
