@@ -67,7 +67,7 @@
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-3 footer_logo_box">
                         <figure class="padding_bottom_10">
-                            <a href="#"><img class="img-fluid" src="{$WEB_ROOT}/templates/{$template}/layouts/wp-78/images/logo78.png" /></a>
+                            <a href="#"><img class="img-fluid" src="{$WEB_ROOT}/templates/{$template}/layouts/wp-78/images/logo52.png" /></a>
                         </figure>
                         <h6 class="copyright">Copyright @ 2021 <span><a href="#">Hostiko.com</a></span> <br> All RIght Reserved</h6>
                     </div>
