@@ -1,7 +1,7 @@
 <section class="bg-white main-header">
 <div class="container">
 <nav class="navbar navbar-expand-lg pl-0 pt-0 pb-0 pr-0">
-  <a class="navbar-brand" href="#"><img src="{$WEB_ROOT}/templates/{$template}/layouts/wp-78/assets/images/logo78.png" /></a>
+  <a class="navbar-brand" href="#"><img src="{$WEB_ROOT}/templates/{$template}/layouts/wp-78/images/logo78.png" /></a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
