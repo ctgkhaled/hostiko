@@ -54,7 +54,10 @@ footer.footer .copyright{color:var(--global--color-black)}
 .home-domain-search .btn-success:hover{background-color:var(--global--color-orange);border-color:var(--global--color-orange);color:var(--global--color-white)!important}
 footer.footer .nav-link{color:var(--global--color-white);background-color:#403883;border-radius:4px;}
 .footer_logo_box .copyright{font-size:14px;color:#818283;line-height:22px;}
-.footer_logo_box img{width:30%}
+img-fluid {
+    max-width: 50%;
+    height: auto;
+}
 .footer_logo_box .copyright span a{color:var(--global--color-orange);}
 .footer-box{background:#fff;border:solid 1px #ddd}
 #hostiko-footer ul li a{font-weight:300;letter-spacing:1px;transition:all ease-in-out .6s;color:#ababab}
