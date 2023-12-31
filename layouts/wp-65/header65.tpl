@@ -35,9 +35,6 @@
           <a class="dropdown-item" href="https://accounts.digitalnodi.com/register.php">Register</a>
         </div>
       </li>
-      <li class="nav-item">
-        <a class="nav-link" href="#">blog</a>
-      </li>
     </ul>
   </div>
 </nav>
