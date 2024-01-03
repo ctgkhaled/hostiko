@@ -11,7 +11,7 @@
 
     <link href="{$WEB_ROOT}/templates/{$template}/layouts/wp-{$smarty.get.layout}/override{$smarty.get.layout}.css" rel="stylesheet">
 {else}
-    <link href="{$WEB_ROOT}/templates/{$template}/layouts/wp-81/override81.css" rel="stylesheet">
+    <link href="{$WEB_ROOT}/templates/{$template}/layouts/wp-65/override65.css" rel="stylesheet">
 {/if}
 <script>
     var csrfToken = '{$token}',
