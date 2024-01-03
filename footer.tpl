@@ -17,7 +17,7 @@
 
    {else}
 
-       {include file="$template/layouts/wp-65/footer65.tpl"}
+       {include file="$template/layouts/wp-81/footer81.tpl"}
 {/if}
 
     <footer id="footer" class="footer">
