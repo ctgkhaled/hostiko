@@ -18,7 +18,7 @@
     {include file="$template/layouts/wp-{$smarty.get.layout}/header{$smarty.get.layout}.tpl"}
 
    {else}
-   {include file="$template/layouts/wp-65/header65.tpl"}
+   {include file="$template/layouts/wp-81/header81.tpl"}
 
 
 {/if}
