@@ -7,35 +7,30 @@
                     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-4 footer_box">
                         <h5 class="font-18 footer-heading mb-20">Our Services</h5>
                         <ul class="font_size_14 line_height_22 font_weight_400 footer_links list-inline">
-                            <li><a href="hosting.html">Shared Hosting</a></li>
-                            <li><a href="vps_hosting.html">Vps Hosting</a></li>
-                            <li><a href="reseller.html">Reseller Hosting</a></li>
-                            <li><a href="dedicated_hosting.html">Dedicated Hosting</a></li>
+                          <li><a href="https://www.digitalnodi.com/shared-hosting/">Shared Hosting</a></li>
+                          <li><a href="https://www.digitalnodi.com/managed-wordpress/">Managed WordPress</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-4 footer_box">
                         <h5 class="font-18 footer-heading mb-20">Company</h5>
                         <ul class="font_size_14 font_weight_400 line_height_22 footer_links list-inline">
-                            <li><a href="about.html">About Us</a></li>
-                            <li><a href="contact.html">Contact Us</a></li>
-                            <li><a href="blog.html">Blog</a></li>
-                            <li><a href="network.html">Networks</a></li>
+                          <li><a href="https://accounts.digitalnodi.com/contact.php">Contact Us</a></li>
+                          <li><a href="https://accounts.digitalnodi.com/serverstatus.php">Networks</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-4 footer_box">
                         <h5 class="font-18 footer-heading mb-20">Support</h5>
                         <ul class="font_size_14 font_weight_400 line_height_22 footer_links list-inline">
-                            <li><a href="contact">Contact Us</a></li>
-                            <li><a href="//akdesigner.com/whmcs-templates/knowledgebase?systpl=hostiko">Knowledge Base</a></li>
-                            <li><a href="//akdesigner.com/whmcs-templates/cart.php?systpl=hostiko">Submit A Ticket</a></li>
+                          <li><a href="https://accounts.digitalnodi.com/index.php?rp=/knowledgebase">Knowledge Base</a></li>
+                          <li><a href="https://accounts.digitalnodi.com/submitticket.php">Submit A Ticket</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-3 footer_box">
                         <h5 class="font-18 footer-heading mb-20">Get In Touch With Us</h5>
                         <ul class="footer_info list-inline">
-                            <li><a href="#">Address:</a><span> Envato Labs, Behind Alis Street, Melbourne, Austrila.</span></li>
-                            <li><a href="Mailto:info@hostiko.com">Email: <span> info@hostiko.com</span></a></li>
-                            <li><a href="tel:(+1)1234567890">Phone: <span> (+1)123 456 7890</span></a></li>
+                            <li><a href="#">Address:</a><span>37 Ave NW, Edmonton, AB T6K 1T9, Canada</span></li>
+                            <li><a href="mailto:support@digitalnodi.com">Email: <span> info@hostiko.com</span></a></li>
+                            <li><a href="https://wa.me/message/NVQHP3UFMP6TM1">WhatsApp: <span>Message Us</span></a></li>
                         </ul>
                     </div>
                 </div>
@@ -43,33 +38,29 @@
                     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-4 footer_box">
                         <h5 class="font-18 footer-heading mb-20 font-bold text-uppercase"">Legal</h5>
                         <ul class="font_size_14 font_weight_400 line_height_22 footer_links list-inline">
-                            <li><a href="domain.html">Domain</a></li>
-                            <li><a href="privacy_policy.html">Privacy Policy</a></li>
-                            <li><a href="acceptable_use_policy.html">Acceptable Use Policy</a></li>
+                          <li><a href="https://www.digitalnodi.com/privacy-policy/">Privacy Policy</a></li>
+                          <li><a href="https://www.digitalnodi.com/terms-and-conditions/">Acceptable Use Policy</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-3 col-xs-4 footer_box">
-                        <h5 class="font-18 footer-heading mb-20">whmcs</h5>
+                      <h5 class="font-18 footer-heading mb-20">Accounts</h5>
                         <ul class="font_size_14 font_weight_400 line_height_22 footer_links list-inline">
-                            <li><a href="//akdesigner.com/whmcs-templates/announcements?systpl=hostiko">Announcements</a></li>
-                            <li><a href="//akdesigner.com/whmcs-templates/cart.php?a=add&domain=register&systpl=hostiko">Register Domain</a></li>
-                            <li><a href="//akdesigner.com/whmcs-templates/cart.php?a=add&domain=transfer&systpl=hostiko">Transfer Domain</a></li>
+                          <li><a href="https://accounts.digitalnodi.com/cart.php?a=add&domain=register">Register Domain</a></li>
+                          <li><a href="https://accounts.digitalnodi.com/cart.php?a=add&domain=transfer">Transfer Domain</a></li>
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-3 footer_box col-xs-4 footer_social_links_box">
                         <h5 class="font-18 footer-heading mb-20">Social Links</h5>
                         <ul class="font_size_14 font_weight_400 line_height_22  list-inline footer_social_links list-inline">
-                            <li><a href="#"><i class="fab fa-facebook"></i></a></li>
-                            <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                            <li><a href="#"><i class="fab fa-google-plus"></i></a></li>
-                            <li><a href="#"><i class="fab fa-linkedin"></i></a></li>
+                          <li><a href="https://www.facebook.com/https://www.facebook.com/digitalnodi"><i class="fab fa-facebook"></i></a></li>
+                          <li><a href="https://wa.me/message/NVQHP3UFMP6TM1"><i class="fab fa-whatsapp"></i></a></li>
                         </ul>
                     </div>
                     <div class="col-lg-3 col-md-3 col-sm-3 footer_logo_box">
                         <figure class="padding_bottom_10">
-                            <a href="#"><img class="img-fluid" src="{$WEB_ROOT}/templates/{$template}/layouts/wp-52/assets/images/logo52.png" /></a>
+                          <a href="https://www.digitalnodi.com"><img width="50%" src="{$WEB_ROOT}/templates/{$template}/layouts/wp-52/assets/images/logo52.png" /></a>
                         </figure>
-                        <h6 class="copyright">Copyright @ 2021 <span><a href="#">Hostiko.com</a></span> <br> All RIght Reserved</h6>
+                        <h6 class="copyright">Copyright @ 2024 <span><a href="https://www.digitalnodi.com/">digitalnodi.com</a></span> <br> All RIght Reserved</h6>
                     </div>
                 </div>
             </div>
